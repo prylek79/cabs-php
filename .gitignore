@@ -15,3 +15,5 @@
 
 /.phpunit.cache
 /phpunit.xml
+
+.idea
